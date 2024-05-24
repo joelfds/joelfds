@@ -1,4 +1,4 @@
 ### Hi there 👋
-this is my repo
+this is my repository
 <br>
 author-(joel fernandes)
